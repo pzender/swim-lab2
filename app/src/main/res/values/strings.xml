@@ -22,4 +22,8 @@
     <string name="last_height">last_height</string>
     <string name="last_bmi">last_bmi</string>
     <string name="title_activity_about">AboutActivity</string>
+    <string name="about_name">Przemysław Zender, 228162</string>
+    <string name="about_text">Hi! I made this. My face is down here.</string>
+    <string name="about_title">About</string>
+    <string name="app_text">BMI Calculator</string>
 </resources>

@@ -103,6 +103,7 @@ public class MainActivity extends AppCompatActivity {
             et_mass.setText("");
             EditText et_height = (EditText)findViewById(R.id.et_height);
             et_height.setText("");
+            out.setText("");
         }
     };
     @Override
@@ -123,11 +124,8 @@ public class MainActivity extends AppCompatActivity {
         switch (item.getItemId()) {
             case R.id.menu_about:
                 //STUFF
-                /*
-                Intent aboutIntent = new Intent();
-                aboutIntent.setAction(Intent.)
-                startActivityForResult();
-                */
+                Intent aboutIntent = new Intent(this, AboutActivity.class);
+                startActivity(aboutIntent);
                 return true;
             case R.id.menu_load:
                 SharedPreferences toLoad = getPreferences(Context.MODE_PRIVATE);
