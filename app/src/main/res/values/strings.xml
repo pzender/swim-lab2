@@ -15,15 +15,14 @@
     <string name="no_input_exc">No input!</string>
     <string name="menu_load">Load</string>
     <string name="menu_share">Share</string>
-    <string name="menu_about">About</string>
+    <string name="menu_about">Author</string>
     <string name="share">My BMI is </string>
     <string name="exc_mark">!</string>
     <string name="last_mass">last_mass</string>
     <string name="last_height">last_height</string>
     <string name="last_bmi">last_bmi</string>
-    <string name="title_activity_about">AboutActivity</string>
+    <string name="about_title">About me</string>
     <string name="about_name">Przemysław Zender, 228162</string>
     <string name="about_text">Hi! I made this. My face is down here.</string>
-    <string name="about_title">About</string>
     <string name="app_text">BMI Calculator</string>
 </resources>
