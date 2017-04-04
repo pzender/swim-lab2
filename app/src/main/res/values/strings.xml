@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">BMI Calculator</string>
+    <string name="lab_height">Height: </string>
+    <string name="lab_mass">Mass: </string>
+    <string name="ok_button">Calculate</string>
+    <string name="unit_switch_metr">Metric</string>
+    <string name="unit_switch_imp">Imperial</string>
+    <string name="unit_height_metr">m</string>
+    <string name="unit_mass_metr">kg</string>
+    <string name="unit_height_imp">ft</string>
+    <string name="unit_mass_imp">lbs</string>
+    <string name="lab_result">Your BMI: </string>
+    <string name="wrong_mass_exc">Incorrect mass!</string>
+    <string name="wrong_height_exc">Incorrect height!</string>
+    <string name="no_input_exc">No input!</string>
+    <string name="menu_load">Load</string>
+    <string name="menu_share">Share</string>
+    <string name="menu_about">About</string>
+    <string name="share">My BMI is </string>
+    <string name="exc_mark">!</string>
+    <string name="last_mass">last_mass</string>
+    <string name="last_height">last_height</string>
+    <string name="last_bmi">last_bmi</string>
+    <string name="title_activity_about">AboutActivity</string>
+</resources>
